@@ -1,4 +1,4 @@
-# Responsible AI
+# Safe AI
 
 *Research on using AI for safer digital media.*
 
